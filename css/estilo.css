@@ -1,5 +1,5 @@
 .fundohenrique{
-    background-color: darkgray;
+    background-color: purple;
 }
 
 .logo{
@@ -16,4 +16,18 @@
 
 .accordion {
     padding-top: 65px;
+}
+
+.competencia{
+    padding: 30px;
+    text-align: center;
+}
+
+body{
+    background-color:darkviolet;
+}
+
+footer{
+    text-align: center;
+    font-size: 1.3em;
 }
